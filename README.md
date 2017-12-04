@@ -1,7 +1,7 @@
 # A-R-J-A-N Hass.io Add-Ons
 ---------
 
-## My repository for [Hass.io](https://home-assistant.io/hassio/) add-ons.
+## My repository for [Hass.io](https://home-assistant.io/hassio/) add-ons:
 * [Hass.io Nefit Easy™ HTTP server](https://github.com/a-r-j-a-n/hassio-addons/tree/master/node-red)
 
 ## Installation

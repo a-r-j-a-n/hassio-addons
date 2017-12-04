@@ -2,7 +2,7 @@
 ---------
 
 ## My [Hass.io](https://home-assistant.io/hassio/) add-ons:
-* [Hass.io Nefit Easy™ HTTP server](https://github.com/a-r-j-a-n/hassio-addons/tree/master/node-red)
+* [Hass.io Nefit Easy™ HTTP server](https://github.com/a-r-j-a-n/hassio-addons/tree/master/nefit-easy-http-server)
 
 
 ## Installation

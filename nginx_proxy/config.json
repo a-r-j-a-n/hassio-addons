@@ -33,5 +33,6 @@
       "default": "str",
       "servers": "str"
     }
-  }
+  },
+  "image": "a-r-j-a-n/{arch}-addon-nginx_proxy"
 }

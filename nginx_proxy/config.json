@@ -33,6 +33,5 @@
       "default": "str",
       "servers": "str"
     }
-  },
-  "image": "homeassistant/{arch}-addon-nginx_proxy"
+  }
 }

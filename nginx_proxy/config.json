@@ -1,13 +1,12 @@
 {
-  "name": "NGINX Home Assistant SSL proxy",
-  "version": "2",
-  "slug": "nginx_proxy",
+  "name": "NGINX SSL only proxy",
+  "version": "2.1",
+  "slug": "nginx_ssl_proxy",
   "description": "An SSL/TLS proxy",
-  "url": "https://home-assistant.io/addons/nginx_proxy/",
+  "url": "https://github.com/a-r-j-a-n/hassio-addons/",
   "startup": "application",
   "boot": "auto",
   "ports": {
-    "80/tcp": 80,
     "443/tcp": 443
    },
   "map": ["ssl", "share"],
@@ -25,6 +24,7 @@
   },
   "schema": {
     "domain": "str",
+    "port": "int",
     "certfile": "str",
     "keyfile": "str",
     "hsts": "str",
